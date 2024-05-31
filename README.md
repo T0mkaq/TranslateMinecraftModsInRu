@@ -2,6 +2,7 @@
 <h3>Скрипт которые переводит любые моды для майнкрафта с английского на русский за пару действий!<h3/>
   
 # [Установка модулей](https://silent-lad.github.io/Vue2BaremetricsCalendar/#/)
+<p >Но перед установкой модулей и чтобы вообще скрипт работал нужно установить <a href="https://nodejs.org/en/download/prebuilt-installer">Nodejs</a></p>
 
 `npm imstall`
 
