@@ -1,0 +1,2 @@
+node index.mjs
+pause
