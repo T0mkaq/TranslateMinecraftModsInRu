@@ -15,6 +15,7 @@ export const createRuJsonFile = () => {
                     const ruFile = prefix + file
                     const translatedJson = await fs.readFileSync(pathJsonAll + ruFile)
 
+                    // после окончания перевода создает файл в нужном месте с переводом мода
                     const jsonData = JSON.parse(translatedJson)
                     for (const key in jsonData) {
                         for (const name in jsonData[key]) {

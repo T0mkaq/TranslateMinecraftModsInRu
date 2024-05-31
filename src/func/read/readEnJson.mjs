@@ -17,7 +17,7 @@ export const readEnJson = () => {
 
             fs.readFile(folderRuEnJson, (err, data) => {
                 const jsonData = JSON.parse(data)
-
+                // создаем json файл со всеми англ словами модов
                 newJsonData.push({ [modName]: jsonData });
                 fs.writeFileSync(fileAllJson, JSON.stringify(newJsonData, null, 2))
                 resolve()

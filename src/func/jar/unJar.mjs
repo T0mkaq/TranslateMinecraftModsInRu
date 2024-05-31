@@ -4,6 +4,7 @@ import { readFolder } from "../read/readFolder.mjs"
 import { readJarEnFolder } from '../read/readJarEnFolder.mjs';
 
 export const unJar = () => {
+    // метод распаковки jar в папку 
     return new Promise(async (resolve, reject) => {
         const jarNames = await readJarEnFolder();
 

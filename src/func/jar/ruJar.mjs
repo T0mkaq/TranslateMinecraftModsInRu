@@ -3,6 +3,7 @@ import {  pathJarRu, pathRu } from "../../properties/path.mjs"
 import { readJarEnFolder } from '../read/readJarEnFolder.mjs';
 
 export const ruJar = () => {
+    // метод запаковки jar в папку 
     return new Promise(async (resolve, reject) => {
         const zip = new AdmZip();
         const jarNames = await readJarEnFolder();
