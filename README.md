@@ -19,3 +19,5 @@
 <p>⚠️  Переведенные файлы находятся в папке «jar_ru« по пути src/ jar/ jar_ru</p>
 
 `./src/jar/jar_ru`
+
+<img align="center"  src="https://github.com/T0mkaq/TranslateMinecraftModsInRu/assets/89329217/a992b3f4-c0a9-4842-9cb5-9e775bf4b712?style=flat">
