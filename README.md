@@ -10,6 +10,9 @@
 
 `modules.bat`
 
+<img align="center"  src="https://github.com/T0mkaq/TranslateMinecraftModsInRu/assets/89329217/dd3ee5e1-1628-4ba7-a3c9-7a5d96051eb5?style=flat">
+
+
 # [Закидываем моды в папку](https://silent-lad.github.io/Vue2BaremetricsCalendar/#/)
 <p >🔎 Находим в проекте папку «jar_en« по пути src/ jar/ jar_en и закидываем туда моды, которые хотим перевести</p>
 
@@ -22,7 +25,9 @@
 
 `start.bat`
 
-<p>⚠️  Переведенные файлы находятся в папке «jar_ru« по пути src/ jar/ jar_ru</p>
+<img align="center"  src="https://github.com/T0mkaq/TranslateMinecraftModsInRu/assets/89329217/562aa8c1-7c45-4f78-999d-f979e6ae535a?style=flat">
+
+<p><br/>⚠️  Переведенные файлы находятся в папке «jar_ru« по пути src/ jar/ jar_ru</p>
 
 `./src/jar/jar_ru`
 
