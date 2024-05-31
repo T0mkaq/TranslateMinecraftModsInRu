@@ -1,4 +1,4 @@
-# TranslateMinecraftModsInRu
+<h1 align="center">Translate Minecraft Mods In Ru</h1>
 Скрипт которые переводит любые моды для майнкрафта с английского на русский за пару действий!/n
 сначала скачиваем модули если их нет - npm i\n
 далее закидываем моды, которые нужно перевести в src/jar/jar_en\n
