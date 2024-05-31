@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "adm-zip": "^0.5.12",
+    "axios": "^1.7.2",
+    "fs-extra": "^11.2.0"
+  }
+}
