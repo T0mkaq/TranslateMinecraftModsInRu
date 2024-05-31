@@ -1,5 +1,5 @@
 <h1 align="center">Translate Minecraft Mods In Ru</h1>
-<h3>Скрипт которые переводит любые моды для майнкрафта с английского на русский за пару действий!<h3/>
+<h3>Это программа для перевода модов Minecraft с английского на русский язык за пару действий!<h3/>
   
 # [Установка](https://silent-lad.github.io/Vue2BaremetricsCalendar/#/)
 <p >⚠️   Для корректной работы скрипта нужнен <a href="https://nodejs.org/en/download/prebuilt-installer">Nodejs</a></p>
